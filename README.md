@@ -1,6 +1,4 @@
-# Selenium Project Ideas
-
-Here are 15 use cases where Selenium can be utilized effectively. Each of these can serve as a project idea for future exploration:
+Welcome to my Selenium repo with examples of how to do each of the following things. This will be a 15 part series resulting in individual scripts for ease of running.
 
 1. **Automated Website Testing**
    - Test the functionality of web applications by simulating user interactions (e.g., logging in, navigating, and form submissions).
@@ -39,25 +37,25 @@ Here are 15 use cases where Selenium can be utilized effectively. Each of these 
    - TODO
 
 10. **Automating Reports Generation**
-   - Log into internal systems, extract data, and generate reports (e.g., daily sales or performance dashboards).
-   - TODO
+    - Log into internal systems, extract data, and generate reports (e.g., daily sales or performance dashboards).
+    - TODO
 
 11. **Automating Login for Multiple Accounts**
-   - Automate logging into multiple accounts on the same platform, such as managing multiple social media profiles or email accounts.
-   - TODO
+    - Automate logging into multiple accounts on the same platform, such as managing multiple social media profiles or email accounts.
+    - TODO
 
 12. **Testing Website Responsiveness**
-   - Test how a website adapts to different screen sizes and resolutions using Selenium's window resizing capabilities.
-   - TODO
+    - Test how a website adapts to different screen sizes and resolutions using Selenium's window resizing capabilities.
+    - TODO
 
 13. **Automating Product Price Comparison**
-   - Track prices across multiple e-commerce websites and alert when prices drop below a certain threshold.
-   - TODO
+    - Track prices across multiple e-commerce websites and alert when prices drop below a certain threshold.
+    - TODO
 
 14. **Downloading Files from Web Applications**
-   - Automate file downloads from websites, such as PDFs, images, or reports.
-   - TODO
+    - Automate file downloads from websites, such as PDFs, images, or reports.
+    - TODO
 
 15. **Automating Email or Message Sending**
-   - Automate sending messages or emails through webmail services or messaging platforms (e.g., Gmail or Slack web versions).
-   - TODO
+    - Automate sending messages or emails through webmail services or messaging platforms (e.g., Gmail or Slack web versions).
+    - TODO

@@ -1,61 +1,101 @@
-Welcome to my Selenium repo with examples of how to do each of the following things. This will be a 15 part series resulting in individual scripts for ease of running.
+# 🚀 Welcome to My Selenium Repo! 
 
-1. **Automated Website Testing**
-   - Test the functionality of web applications by simulating user interactions (e.g., logging in, navigating, and form submissions).
-   - Completed project found in test_login_page.py
+This repo showcases **15 practical examples** of how to use Selenium for different tasks. Each example will result in an individual script for ease of use. 🖥️ The testing playground: [Practice Expand Testing](https://practice.expandtesting.com/)
 
-2. **Web Scraping**
-   - Extract data from websites where APIs are unavailable or limited, such as product information, prices, or reviews.
-   - TODO
+---
 
-3. **Form Automation**
-   - Automate filling out forms on websites for repeated tasks like survey submissions, account registrations, or feedback forms.
-   - TODO
+## 📝 Topics Covered:
 
-4. **Cross-Browser Testing**
-   - Test how a website performs on different browsers (Chrome, Firefox, Edge, etc.) to ensure consistent user experience.
-   - TODO
+### 1. **Automated Website Testing** 🧪
+   - Test the functionality of web apps by simulating user interactions (e.g., logging in, navigating, and submitting forms).  
+   - ✅ **Completed project**: [test_login_page.py](https://github.com/pekirk99/selenium/blob/main/test_login_page.py)  
+   - 📖 **Writeup**: [Read the blog](https://pete-hd.blogspot.com/2024/12/testing-series-automated-website.html)
 
-5. **Capturing Screenshots**
-   - Take periodic screenshots of webpages to track changes, monitor web content, or generate visual reports.
-   - TODO
+---
 
-6. **Data Entry Automation**
-   - Automate repetitive data entry tasks, such as entering data into web-based forms or CRMs.
-   - TODO
+### 2. **Web Scraping** 🕷️
+   - Extract data from websites when APIs are unavailable or limited (e.g., product info, prices, reviews).  
+   - 🚧 **TODO**
 
-7. **Monitoring Website Changes**
-   - Track updates on websites (e.g., changes in stock prices, news headlines, or availability of a product).
-   - TODO
+---
 
-8. **End-to-End Testing for Web Applications**
-   - Simulate entire user workflows, such as searching for a product, adding it to the cart, and completing a checkout process.
-   - TODO
+### 3. **Form Automation** 🖋️
+   - Automate filling out forms for repeated tasks (e.g., surveys, account registrations, feedback).  
+   - 🚧 **TODO**
 
-9. **Social Media Automation**
-   - Perform actions on platforms like liking posts, sending messages, or scraping public data (if permitted by platform rules).
-   - TODO
+---
 
-10. **Automating Reports Generation**
-    - Log into internal systems, extract data, and generate reports (e.g., daily sales or performance dashboards).
-    - TODO
+### 4. **Cross-Browser Testing** 🌐
+   - Ensure consistent performance across browsers (Chrome, Firefox, Edge, etc.).  
+   - 🚧 **TODO**
 
-11. **Automating Login for Multiple Accounts**
-    - Automate logging into multiple accounts on the same platform, such as managing multiple social media profiles or email accounts.
-    - TODO
+---
 
-12. **Testing Website Responsiveness**
-    - Test how a website adapts to different screen sizes and resolutions using Selenium's window resizing capabilities.
-    - TODO
+### 5. **Capturing Screenshots** 📸
+   - Take periodic screenshots to track changes, monitor web content, or generate reports.  
+   - 🚧 **TODO**
 
-13. **Automating Product Price Comparison**
-    - Track prices across multiple e-commerce websites and alert when prices drop below a certain threshold.
-    - TODO
+---
 
-14. **Downloading Files from Web Applications**
-    - Automate file downloads from websites, such as PDFs, images, or reports.
-    - TODO
+### 6. **Data Entry Automation** 📥
+   - Automate repetitive data entry tasks in web-based forms or CRMs.  
+   - 🚧 **TODO**
 
-15. **Automating Email or Message Sending**
-    - Automate sending messages or emails through webmail services or messaging platforms (e.g., Gmail or Slack web versions).
-    - TODO
+---
+
+### 7. **Monitoring Website Changes** 🔄
+   - Track updates on websites (e.g., stock prices, news headlines, product availability).  
+   - 🚧 **TODO**
+
+---
+
+### 8. **End-to-End Testing for Web Applications** 🔁
+   - Simulate workflows like searching for a product, adding it to a cart, and completing a checkout.  
+   - 🚧 **TODO**
+
+---
+
+### 9. **Social Media Automation** 📱
+   - Perform actions like liking posts, sending messages, or scraping public data (platform rules apply).  
+   - 🚧 **TODO**
+
+---
+
+### 10. **Automating Reports Generation** 📊
+    - Log into systems, extract data, and generate reports (e.g., daily sales dashboards).  
+    - 🚧 **TODO**
+
+---
+
+### 11. **Automating Login for Multiple Accounts** 🔑
+    - Automate login for multiple accounts on the same platform (e.g., managing social media profiles).  
+    - 🚧 **TODO**
+
+---
+
+### 12. **Testing Website Responsiveness** 📱💻
+    - Test how websites adapt to different screen sizes and resolutions.  
+    - 🚧 **TODO**
+
+---
+
+### 13. **Automating Product Price Comparison** 🛒
+    - Track prices across e-commerce sites and get alerts for price drops.  
+    - 🚧 **TODO**
+
+---
+
+### 14. **Downloading Files from Web Applications** 📂
+    - Automate downloads of files (e.g., PDFs, images, reports).  
+    - 🚧 **TODO**
+
+---
+
+### 15. **Automating Email or Message Sending** ✉️
+    - Automate sending messages or emails via webmail or messaging platforms (e.g., Gmail or Slack).  
+    - 🚧 **TODO**
+
+---
+
+🔧 **Stay tuned for updates as I complete the examples!**  
+💡 Got ideas or suggestions? Feel free to reach out!

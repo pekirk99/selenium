@@ -14,8 +14,9 @@ This repo showcases **15 practical examples** of how to use Selenium for differe
 ---
 
 ### 2. **Web Scraping** 🕷️
-   - Extract data from websites when APIs are unavailable or limited (e.g., product info, prices, reviews).  
-   - 🚧 **TODO**
+   - Extract data from websites when APIs are unavailable or limited (e.g., product info, prices, reviews).
+   - ✅ **Completed project**: [scrape_page.py](https://github.com/pekirk99/selenium/blob/main/scrape_page.py)
+   - 📖 **Writeup**: [Read the blog](https://pete-hd.blogspot.com/2024/12/testing-series-web-scraping-with.html)
 
 ---
 
